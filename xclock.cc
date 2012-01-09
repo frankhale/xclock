@@ -5,7 +5,7 @@
 //  Frank Hale - <frankhale@gmail.com> 
 //               <http://about.me/frank.hale>
 //
-// Date: January 24, 2005
+// Written on: January 24, 2005
 //
 // GPL version 3 <http://www.gnu.org/licenses/gpl-3.0.html>
 //
